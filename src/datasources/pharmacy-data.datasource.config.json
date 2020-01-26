@@ -1,0 +1,10 @@
+{
+  "name": "PharmacyData",
+  "connector": "postgresql",
+  "host": "localhost",
+  "port": 5432,
+  "url": "postgres://admin:@localhost:5432/nurx_test?ssl=false",
+  "user": "admin",
+  "password": "",
+  "database": "nurx_test"
+}
